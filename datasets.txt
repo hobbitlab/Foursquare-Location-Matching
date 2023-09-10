@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/nikitajz/faiss-163
+https://www.kaggle.com/datasets/sauravmaheshkar/huggingface-roberta-variants
+https://www.kaggle.com/datasets/iiyamaiiyama/paraphrasemultilingualmpnetbasev2
+https://www.kaggle.com/datasets/nbroad/rembert-pt
+https://www.kaggle.com/datasets/hariwh0/sentence-transformers
+https://www.kaggle.com/datasets/jihunlorenzopark/unidecode
+
+
